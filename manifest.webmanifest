@@ -1,0 +1,15 @@
+{
+  "name": "Pocket Sextant",
+  "short_name": "Sextant",
+  "description": "Celestial navigation with your iPhone: shoot the sun, get a fix.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1d33",
+  "theme_color": "#0b1d33",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
